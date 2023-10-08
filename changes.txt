@@ -1,0 +1,4 @@
+remove donat4e from nav
+add content on home page with blur
+create donate.html
+design donate page
